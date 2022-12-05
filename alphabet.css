@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+}
+
+#alphabet {
+    font-size: 72px;
+    width: 50%;
+}
