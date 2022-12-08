@@ -6,3 +6,20 @@
     font-size: 72px;
     width: 50%;
 }
+
+#display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#display img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#lists {
+    display: flex;
+    justify-content: left;
+}
